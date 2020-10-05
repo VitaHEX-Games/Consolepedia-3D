@@ -40,6 +40,8 @@
 
 
 # Support
-<p>If you want to support my work you can become a <a href="https://www.patreon.com/vitahex">Patreon</a>. </p>
+<p>If you want to support my work you can become a <a href="https://www.patreon.com/vitahex">Patron</a>. </p>
+ 
+<p>PayPal option is also available <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RM8ECMVYMTXGJ&source=url">HERE</a></p>
 <p><a href="https://twitter.com/VitaHex">VitaHEX Twitter</a></p>
 <p><a href="https://vitahex.weebly.com/">VitaHEX Official Page</a></p>
