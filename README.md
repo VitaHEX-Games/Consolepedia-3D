@@ -33,10 +33,13 @@
 <p><img src="/0.3_2.jpg" width="800" title="screen-02"></p>
 <p><img src="/0.3_3.jpg" width="800" title="screen-03"></p>
 
-<h3>Downloads</h3>
+
+# Downloads
 
 <p>Grab the latest version from the Releases page <a href="https://github.com/VitaHEX-Games/Consolepedia-3D/releases">HERE</a></p>
 
-<p>My games will always be free but if you want to support my work you can become a <a href="https://www.patreon.com/vitahex">Patreon</a>.</p>
 
+# Support
+<p>If you want to support my work you can become a <a href="https://www.patreon.com/vitahex">Patreon</a>. </p>
 <p><a href="https://twitter.com/VitaHex">VitaHEX Twitter</a></p>
+<p><a href="https://vitahex.weebly.com/">VitaHEX Official Page</a></p>
